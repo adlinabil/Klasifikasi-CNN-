@@ -1,0 +1,11 @@
+tensorflow>=2.15
+transformers>=4.40
+torch
+torchvision
+scikit-learn
+seaborn
+matplotlib
+pandas
+pillow
+tqdm
+streamlit
